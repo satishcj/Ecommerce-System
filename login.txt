@@ -1,0 +1,7 @@
+<div align="center"><form action="&lt;c:url value='main.do'/&gt;" method="post">
+<div style="margin-top: 200px; margin-bottom: 10px;"><span style="width: 500px; color: blue; font-size: 30px; font-weight: bold; border-bottom: 1px solid blue;">LOGIN PAGE</span></div>
+<div style="margin-bottom: 5px;"><span style="width: 100px;">&nbsp;Userid &nbsp; &nbsp;</span> <input id="name" style="width: 150px;" name="name" type="text" value="" /></div>
+<div style="margin-bottom: 5px;">&nbsp;</div>
+<div><span style="width: 100px;">password</span><input id="password" style="width: 150px;" name="password" type="password" value="" /></div>
+<div align="right">forgot password?</div>
+<input type="submit" value="Login" /></form></div>
